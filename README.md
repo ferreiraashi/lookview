@@ -14,3 +14,5 @@
 * Animações e Feedbacks: Pequenas animações para carregamento de imagens e interações suaves.
 * Desempenho Otimizado: Carregar imagens de forma eficiente para evitar lentidão.
 * Acessibilidade: Atalhos de teclado e suporte para leitores de tela.
+
+👉 **[Clique aqui para ver os requisitos detalhados](REQUISITOS.md)** 👈
