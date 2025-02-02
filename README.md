@@ -15,4 +15,4 @@
 * Desempenho Otimizado: Carregar imagens de forma eficiente para evitar lentidão.
 * Acessibilidade: Atalhos de teclado e suporte para leitores de tela.
 
-👉 **[Clique aqui para ver os requisitos detalhados](REQUISITOS.md)** 👈
+**[Clique aqui para ver os requisitos detalhados](Docs/REQUISITOS.md)**
